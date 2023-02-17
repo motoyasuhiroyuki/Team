@@ -7,7 +7,7 @@
 #include <iomanip>
 
 using namespace DirectX;
-
+ 
 GameScene::GameScene()
 {
 }
